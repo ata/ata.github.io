@@ -23,6 +23,7 @@
       <media:content url="http://cdn.production.liputan6.com/medias/656429/big/nkotb.jpg" copyright="Attribution"/>
       <media:description>Eonline.com</media:description>
       <media:title>caption media</media:title>
+      <media:text>Text media</media:text>
       <media:copyright>media alteration</media:copyright>
 
         <media:attribution>Attribution</media:attribution>
