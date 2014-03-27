@@ -32,6 +32,34 @@
 
         <media:attribution>Attribution</media:attribution>
         <media:alt-text>Alt-text</media:alt-text>
+        </item>
+        <item>
+        <title>Rayakan Ultah, New Kids on the Block Gelar Konser di Las Vegas</title>
+        <link>http://showbiz.liputan6.com/read/2028794/rayakan-ultah-new-kids-on-the-block-gelar-konser-di-las-vegas</link>
+        <description>Boyband New Kids on the Block (NKOTB) kini memasuki tiga dekade. Untuk merayakannya, mereka pun siap tampil kembali.</description>
+        <pubDate>Thu, 27 Mar 2014 14:10:00 +0700</pubDate>
+        <guid isPermaLink="false">2028794</guid>
+
+      <subTitle>Ini subtitile</subTitle>
+      <author>Ini Author</author>
+      <abstract>Ini abstact</abstract>
+      <contentId>1234</contentId>
+      <body>Ini body</body>
+      <lastBuildDate>Thu, 27 Mar 2014 14:10:00 +0700</lastBuildDate>
+      <image>
+        <url>http://cdn.production.liputan6.com/medias/656429/big/nkotb.jpg</url>
+        <description>image description</description>
+      </image>
+
+      <media:content url="http://cdn.production.liputan6.com/medias/656429/big/nkotb.jpg" title="Title" caption="Caption" copyright="Attribution" alt="Alt" text="Text"/>
+      <media:description>Eonline.com</media:description>
+      <media:title>caption media</media:title>
+      <media:text>Text media</media:text>
+      <media:copyright>media alteration</media:copyright>
+
+        <media:attribution>Attribution</media:attribution>
+        <media:alt-text>Alt-text</media:alt-text>
       </item>
+
     </channel>
   </rss>
