@@ -11,9 +11,9 @@
         <link>http://showbiz.liputan6.com/read/2028794/rayakan-ultah-new-kids-on-the-block-gelar-konser-di-las-vegas</link>
         <description>Boyband New Kids on the Block (NKOTB) kini memasuki tiga dekade. Untuk merayakannya, mereka pun siap tampil kembali.</description>
         <pubDate>Thu, 27 Mar 2014 14:10:00 +0700</pubDate>
-      <guid isPermaLink="false">2028794</guid>
+        <guid isPermaLink="false">2028794</guid>
 
-      <subtitle>Ini subtitile</subtile>
+      <subtitle>Ini subtitile</subtitle>
       <author>Ini Author</author>
       <abstract>Ini abstact</abstact>
       <contentId>1234</contentId>
@@ -29,4 +29,4 @@
         <media:alt-text>Alt-text</media:alt-text>
       </item>
     </channel>
-  </rss>>
+  </rss>
