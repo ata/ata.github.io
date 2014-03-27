@@ -20,10 +20,10 @@
       <body>Ini body</body>
       <lastBuildDate>Thu, 27 Mar 2014 14:10:00 +0700</lastBuildDate>
 
-        <media:content url="http://cdn.production.liputan6.com/medias/656429/big/nkotb.jpg" />
-        <media:description>Eonline.com</media:description>
-        
-        <media:caption>caption media</media:caption>
+      <media:content url="http://cdn.production.liputan6.com/medias/656429/big/nkotb.jpg" />
+      <media:description>Eonline.com</media:description>
+      <media:title>caption media</media:title>
+      <media:copyright>media alteration</media:copyright>
 
         <media:attribution>Attribution</media:attribution>
         <media:alt-text>Alt-text</media:alt-text>
