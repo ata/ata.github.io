@@ -1,65 +1,440 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>Berita Harian Terkini Indonesia - Kabar Terbaru Hari Ini</title>
-    <link>http://www.liputan6.com/</link>
-    <description>Liputan6.com situs berita harian terkini Indonesia, menyajikan kabar terbaru Indonesia hari ini dan dunia internasional dari politik hingga olahraga</description>
+    <title></title>
+    <link>http://www.woi.dev:8000/</link>
+    <description></description>
     <language>ID</language>
-    <lastBuildDate>Thu, 27 Mar 2014 12:42:07 +0700</lastBuildDate>
-      <item>
-        <title>Rayakan Ultah, New Kids on the Block Gelar Konser di Las Vegas</title>
-        <link>http://showbiz.liputan6.com/read/2028794/rayakan-ultah-new-kids-on-the-block-gelar-konser-di-las-vegas</link>
-        <description>Boyband New Kids on the Block (NKOTB) kini memasuki tiga dekade. Untuk merayakannya, mereka pun siap tampil kembali.</description>
-        <pubDate>Thu, 27 Mar 2014 14:10:00 +0700</pubDate>
-        <guid isPermaLink="false">2028794</guid>
+    <lastBuildDate>Thu, 27 Mar 2014 10:07:39 +0700</lastBuildDate>
 
-      <subTitle>Ini subtitile</subTitle>
-      <author>Ini Author</author>
-      <abstract>Ini abstact</abstract>
-      <contentId>1234</contentId>
-      <body>Ini body</body>
-      <lastBuildDate>Thu, 27 Mar 2014 14:10:00 +0700</lastBuildDate>
-      <image>
-        <url>http://cdn.production.liputan6.com/medias/656429/big/nkotb.jpg</url>
-        <description>image description</description>
-      </image>
+          <item>
+        <title>Celeb Yuda sudah meminang! api admin logout dashboard login ping password direktur windows win-dows kawin toDate=%20man</title>
+        <link>http://news.woi.dev:8000/read/2/celeb-yuda-sudah-meminang-api-admin-logout-dashboard-login-ping-password-direktur-windows-win-dows-kawin-todate20man</link>
+        <description>Yuda yang kacak sudah meminang. Semua gadis di Jakarta sedih.</description>
+        <pubDate>Thu, 19 Sep 2013 11:48:45 +0700</pubDate>
+        <guid isPermaLink="false">2</guid>
+        <subTitle>ini subtitle yang paling oke</subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Iusto velit facere sapiente tempore fuga vel id. Repellat quas asperiores aliquam. Temporibus ut impedit iste provident cum.</abstract>
+        <update>Wed, 26 Mar 2014 15:05:09 +0700</update>
 
-      <media:content url="http://cdn.production.liputan6.com/medias/656429/big/nkotb.jpg" title="Title" caption="Caption" copyright="Attribution" alt="Alt" text="Text"/>
-      <media:description>Eonline.com</media:description>
-      <media:title>caption media</media:title>
-      <media:text>Text media</media:text>
-      <media:copyright>media alteration</media:copyright>
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/40/big/sample.jpeg"
+                         title="Celeb Yuda sudah meminang! api admin logout dashboard login ping "
+                         caption="Celeb Yuda sudah meminang! api admin logout dashboard login ping "
+                         alt="Celeb Yuda sudah meminang! api admin logout dashboard login ping "
+                         copyright="Iusto velit facere sapiente tempore fuga vel id. Repellat quas asperiores aliquam. Temporibus ut impedit iste provident cum."
+                         attribution="Iusto velit facere sapiente tempore fuga vel id. Repellat quas asperiores aliquam. Temporibus ut impedit iste provident cum."/>
+          
+          <media:title>Celeb Yuda sudah meminang! api admin logout dashboard login ping </media:title>
+          <media:copyright>Iusto velit facere sapiente tempore fuga vel id. Repellat quas asperiores aliquam. Temporibus ut impedit iste provident cum.</media:copyright>
+          <media:text>Celeb Yuda sudah meminang! api admin logout dashboard login ping </media:text>
+          <media:description>Iusto velit facere sapiente tempore fuga vel id. Repellat quas asperiores aliquam. Temporibus ut impedit iste provident cum.</media:description>
 
-        <media:attribution>Attribution</media:attribution>
-        <media:alt-text>Alt-text</media:alt-text>
-        </item>
-        <item>
-        <title>Rayakan Ultah, New Kids on the Block Gelar Konser di Las Vegas</title>
-        <link>http://showbiz.liputan6.com/read/2028794/rayakan-ultah-new-kids-on-the-block-gelar-konser-di-las-vegas</link>
-        <description>Boyband New Kids on the Block (NKOTB) kini memasuki tiga dekade. Untuk merayakannya, mereka pun siap tampil kembali.</description>
-        <pubDate>Thu, 27 Mar 2014 14:10:00 +0700</pubDate>
-        <guid isPermaLink="false">2028794</guid>
 
-      <subTitle>Ini subtitile</subTitle>
-      <author>Ini Author</author>
-      <abstract>Ini abstact</abstract>
-      <contentId>1234</contentId>
-      <body>Ini body</body>
-      <lastBuildDate>Thu, 27 Mar 2014 14:10:00 +0700</lastBuildDate>
-      <image>
-        <url>http://cdn.production.liputan6.com/medias/656429/big/nkotb.jpg</url>
-        <description>image description</description>
-      </image>
-
-      <media:content url="http://cdn.production.liputan6.com/medias/656429/big/nkotb.jpg" title="Title" caption="Caption" copyright="Attribution" alt="Alt" text="Text"/>
-      <media:description>Eonline.com</media:description>
-      <media:title>caption media</media:title>
-      <media:text>Text media</media:text>
-      <media:copyright>media alteration</media:copyright>
-
-        <media:attribution>Attribution</media:attribution>
-        <media:alt-text>Alt-text</media:alt-text>
+                        
       </item>
+          <item>
+        <title>Excepturi tenetur maxime ratione explicabo ut eius repudiandae.</title>
+        <link>http://news.woi.dev:8000/read/1/excepturi-tenetur-maxime-ratione-explicabo-ut-eius-repudiandae</link>
+        <description>&lt;p&gt;Enim quod pariatur aut hic dignissimos quasi. Eum voluptates explicabo laborum necessitatibus.&lt;/p&gt; &lt;p&gt;Sed quibusdam sunt adipisci iure cupiditate dolorem. Nostrum assumenda et tempore sunt culpa iusto et. Suscipit eaque iusto tempore est asperiores.&lt;/p&gt; &lt;p&gt;Rerum vero adipisci quia recusandae omnis et. Qui eos id corrupti. Consectetur sit voluptas voluptatem nisi eveniet.&lt;/p&gt; &lt;p&gt;Qui commodi ipsum nisi consectetur eius eos rerum. At sint iure deleniti illo vero. Doloremque voluptatem necessitatibus et veritatis id. Sed ipsa neque ut neque quas cum.&lt;/p&gt;</description>
+        <pubDate>Sun, 15 Sep 2013 11:48:45 +0700</pubDate>
+        <guid isPermaLink="false">1</guid>
+        <subTitle>ini subtitle yang paling oke</subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Laboriosam fugit praesentium at pariatur adipisci laborum. Doloribus qui quia qui culpa ut.</abstract>
+        <update>Thu, 20 Mar 2014 11:50:08 +0700</update>
 
-    </channel>
-  </rss>
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/2/big/jokowi.jpg"
+                         title="Sit quam natus."
+                         caption="Sit quam natus."
+                         alt="Sit quam natus."
+                         copyright="Laudantium aperiam facere sapiente dolor cum."
+                         attribution="Laudantium aperiam facere sapiente dolor cum."/>
+          
+          <media:title>Sit quam natus.</media:title>
+          <media:copyright>Laudantium aperiam facere sapiente dolor cum.</media:copyright>
+          <media:text>Sit quam natus.</media:text>
+          <media:description>Laudantium aperiam facere sapiente dolor cum.</media:description>
+
+
+                        
+      </item>
+          <item>
+        <title>sillylogger tommy</title>
+        <link>http://lifestyle.woi.dev:8000/read/214/sillylogger-tommy</link>
+        <description>&lt;p&gt;Et perspiciatis ipsum cum voluptatum ratione quas. Aut dolorem pariatur voluptates sint aut. Perferendis autem officia commodi voluptate fugit omnis dolores nostrum. Ut voluptatibus dolorem nihil quisquam officia soluta.&lt;/p&gt;&lt;p&gt;Dolores tempore optio et tenetur consequuntur mollitia. Expedita non porro quo ex facere distinctio. Et aliquam ullam maxime accusantium nam odit exercitationem.&lt;/p&gt;&lt;p&gt;Ipsum quaerat qui voluptas soluta doloremque voluptas excepturi. Vero omnis debitis non reiciendis autem aliquam. In et molestias illum id.&lt;/p&gt;&lt;p&gt;Vitae aliquid officia enim temporibus aut expedita qui. Architecto laboriosam magnam veritatis in sunt dolore assumenda voluptatibus. Consectetur est velit sit vero dolores laborum qui. Ut quia minima veniam in enim.&lt;/p&gt;&lt;p&gt;Fuga blanditiis voluptatem blanditiis necessitatibus. Eligendi iure exercitationem nam quasi necessitatibus distinctio aut. Vitae fugit quos corrupti quae maxime. Rerum laborum minus numquam et.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">214</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Impedit ipsam in consequatur. Et dolores aspernatur quia repellendus. Et repellendus architecto doloribus.</abstract>
+        <update>Wed, 26 Mar 2014 15:54:17 +0700</update>
+
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/210/big/sample.jpeg"
+                         title="Molestiae et qui aut iste sunt modi."
+                         caption="Molestiae et qui aut iste sunt modi."
+                         alt="Molestiae et qui aut iste sunt modi."
+                         copyright="Impedit ipsam in consequatur. Et dolores aspernatur quia repellendus. Et repellendus architecto doloribus."
+                         attribution="Impedit ipsam in consequatur. Et dolores aspernatur quia repellendus. Et repellendus architecto doloribus."/>
+          
+          <media:title>Molestiae et qui aut iste sunt modi.</media:title>
+          <media:copyright>Impedit ipsam in consequatur. Et dolores aspernatur quia repellendus. Et repellendus architecto doloribus.</media:copyright>
+          <media:text>Molestiae et qui aut iste sunt modi.</media:text>
+          <media:description>Impedit ipsam in consequatur. Et dolores aspernatur quia repellendus. Et repellendus architecto doloribus.</media:description>
+
+
+                        
+      </item>
+          <item>
+        <title>Blanditiis optio consequuntur et tempore.</title>
+        <link>http://lifestyle.woi.dev:8000/read/213/blanditiis-optio-consequuntur-et-tempore</link>
+        <description>&lt;p&gt;Non voluptas doloremque et non. Quibusdam quidem eligendi dolores dolore. A sunt alias eligendi velit.&lt;/p&gt;&lt;p&gt;Consectetur aut qui ex eius nisi at deserunt. Ex ut laborum modi cumque rerum. Ullam numquam ducimus qui voluptatem rerum quo culpa.&lt;/p&gt;&lt;p&gt;Ratione dolore repellat eaque enim necessitatibus cupiditate eos. Quia quia omnis veniam ipsum. In dolorem omnis sed qui doloribus.&lt;/p&gt;&lt;p&gt;Ut qui est molestias quo aperiam iste placeat. Sapiente saepe rerum dicta soluta. Aliquid aut ea maiores eius consequatur sint. Tenetur aperiam deserunt quaerat atque libero quas.&lt;/p&gt;&lt;p&gt;Ut delectus nihil doloribus sit a sapiente. Sit ut at voluptates et ad. Corrupti in veniam unde perferendis ea doloribus. Culpa in quibusdam autem deserunt fuga expedita. Itaque iste dolores ratione.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">213</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Nobis magni corporis quas. Asperiores autem ut dolorem aliquid modi. Impedit et explicabo corporis aut sunt quisquam nemo.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:59 +0700</update>
+
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/200/big/sample.jpeg"
+                         title="Blanditiis optio consequuntur et tempore."
+                         caption="Blanditiis optio consequuntur et tempore."
+                         alt="Blanditiis optio consequuntur et tempore."
+                         copyright="Nobis magni corporis quas. Asperiores autem ut dolorem aliquid modi. Impedit et explicabo corporis aut sunt quisquam nemo."
+                         attribution="Nobis magni corporis quas. Asperiores autem ut dolorem aliquid modi. Impedit et explicabo corporis aut sunt quisquam nemo."/>
+          
+          <media:title>Blanditiis optio consequuntur et tempore.</media:title>
+          <media:copyright>Nobis magni corporis quas. Asperiores autem ut dolorem aliquid modi. Impedit et explicabo corporis aut sunt quisquam nemo.</media:copyright>
+          <media:text>Blanditiis optio consequuntur et tempore.</media:text>
+          <media:description>Nobis magni corporis quas. Asperiores autem ut dolorem aliquid modi. Impedit et explicabo corporis aut sunt quisquam nemo.</media:description>
+
+
+                        
+      </item>
+          <item>
+        <title>Rerum nemo tenetur porro id.</title>
+        <link>http://lifestyle.woi.dev:8000/read/212/rerum-nemo-tenetur-porro-id</link>
+        <description>&lt;p&gt;Voluptatem impedit velit aliquam explicabo ex nemo asperiores quidem. Consequuntur animi dolorem eos nisi delectus sint consequatur.&lt;/p&gt;&lt;p&gt;Corporis inventore soluta quam accusantium maxime. Repellendus voluptatem culpa dolores illo earum pariatur sequi.&lt;/p&gt;&lt;p&gt;Quisquam et beatae assumenda esse. Dicta est repellat sint fugiat. Nihil et necessitatibus aut veniam accusamus tenetur ut cum.&lt;/p&gt;&lt;p&gt;Impedit dignissimos hic id est quam fuga. Nemo praesentium hic vitae qui quas quasi veniam. Qui necessitatibus vel autem libero.&lt;/p&gt;&lt;p&gt;Est et nemo dolorum consequuntur consequatur est. Voluptatum repellat et voluptatem quisquam ea atque.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">212</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Voluptatem repellendus reprehenderit facilis dolor architecto aut. Rerum veritatis voluptatem laborum est vitae.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:43 +0700</update>
+
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/75/big/sample.jpeg"
+                         title="Rerum nemo tenetur porro id."
+                         caption="Rerum nemo tenetur porro id."
+                         alt="Rerum nemo tenetur porro id."
+                         copyright="Voluptatem repellendus reprehenderit facilis dolor architecto aut. Rerum veritatis voluptatem laborum est vitae."
+                         attribution="Voluptatem repellendus reprehenderit facilis dolor architecto aut. Rerum veritatis voluptatem laborum est vitae."/>
+          
+          <media:title>Rerum nemo tenetur porro id.</media:title>
+          <media:copyright>Voluptatem repellendus reprehenderit facilis dolor architecto aut. Rerum veritatis voluptatem laborum est vitae.</media:copyright>
+          <media:text>Rerum nemo tenetur porro id.</media:text>
+          <media:description>Voluptatem repellendus reprehenderit facilis dolor architecto aut. Rerum veritatis voluptatem laborum est vitae.</media:description>
+
+
+                        
+      </item>
+          <item>
+        <title>Animi necessitatibus voluptatem occaecati et rerum dolor.</title>
+        <link>http://lifestyle.woi.dev:8000/read/211/animi-necessitatibus-voluptatem-occaecati-et-rerum-dolor</link>
+        <description>&lt;p&gt;Soluta enim iure nisi aut. Rerum alias vero laudantium asperiores dolores voluptas earum.&lt;/p&gt;&lt;p&gt;Molestiae et quo reprehenderit temporibus dolorum sit in. Asperiores temporibus cum culpa minima est corporis dolorem. Labore in numquam error autem. Possimus illo dolor et dolor non.&lt;/p&gt;&lt;p&gt;Rerum iusto distinctio aperiam quo autem. Maiores deserunt non soluta vel voluptas voluptas impedit et. Odit quis accusantium sit ab.&lt;/p&gt;&lt;p&gt;Praesentium iste incidunt quia voluptas. Laborum alias soluta rerum asperiores sit eaque qui. Nesciunt et dolorem velit distinctio ut.&lt;/p&gt;&lt;p&gt;Cupiditate laboriosam sunt natus voluptatum repellat. A sed natus in impedit unde. Adipisci autem cum nemo consectetur voluptatum.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">211</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Voluptatem maxime amet sit explicabo qui totam. Occaecati ad rerum aut et.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:11 +0700</update>
+
+                
+      </item>
+          <item>
+        <title>Ab culpa cum libero et reprehenderit.</title>
+        <link>http://lifestyle.woi.dev:8000/read/210/ab-culpa-cum-libero-et-reprehenderit</link>
+        <description>&lt;p&gt;Aliquam aut dolorum dignissimos sunt cupiditate. Velit quis nostrum ad ut qui excepturi sint. Aut ducimus odit saepe earum. Dolor laborum et odit atque sapiente.&lt;/p&gt;&lt;p&gt;Sint rerum temporibus omnis. Soluta excepturi est optio perferendis quo voluptatum. Nulla consequatur a enim aut rerum totam. Consectetur in harum illum et et et.&lt;/p&gt;&lt;p&gt;Dolorum blanditiis error quisquam quia repellendus ipsum. Consequatur ut minima aut eligendi voluptas itaque omnis. Earum sint ipsam blanditiis consequuntur ad ipsam at a. Maxime nihil ducimus quidem nihil in.&lt;/p&gt;&lt;p&gt;Rem quae similique accusamus libero aut magnam aperiam. Porro aut aliquam velit.&lt;/p&gt;&lt;p&gt;Quia eius necessitatibus rerum. Amet error quisquam blanditiis consectetur illo exercitationem. Fuga cumque incidunt dolor asperiores consequatur culpa.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">210</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Quis ab tempora omnis earum ipsa omnis et qui. Sint cupiditate eligendi sed. Vero vel unde ab provident libero. Officia qui voluptates aut.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:55 +0700</update>
+
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/182/big/sample.jpeg"
+                         title="Ab culpa cum libero et reprehenderit."
+                         caption="Ab culpa cum libero et reprehenderit."
+                         alt="Ab culpa cum libero et reprehenderit."
+                         copyright="Quis ab tempora omnis earum ipsa omnis et qui. Sint cupiditate eligendi sed. Vero vel unde ab provident libero. Officia qui voluptates aut."
+                         attribution="Quis ab tempora omnis earum ipsa omnis et qui. Sint cupiditate eligendi sed. Vero vel unde ab provident libero. Officia qui voluptates aut."/>
+          
+          <media:title>Ab culpa cum libero et reprehenderit.</media:title>
+          <media:copyright>Quis ab tempora omnis earum ipsa omnis et qui. Sint cupiditate eligendi sed. Vero vel unde ab provident libero. Officia qui voluptates aut.</media:copyright>
+          <media:text>Ab culpa cum libero et reprehenderit.</media:text>
+          <media:description>Quis ab tempora omnis earum ipsa omnis et qui. Sint cupiditate eligendi sed. Vero vel unde ab provident libero. Officia qui voluptates aut.</media:description>
+
+
+                        
+      </item>
+          <item>
+        <title>Soluta sunt quaerat minima culpa quod sint.</title>
+        <link>http://lifestyle.woi.dev:8000/read/209/soluta-sunt-quaerat-minima-culpa-quod-sint</link>
+        <description>&lt;p&gt;Quam dolorum quia asperiores delectus consequatur. Ea autem maxime nulla ipsam quae eum. Veniam voluptas nam excepturi fuga ducimus consequuntur.&lt;/p&gt;&lt;p&gt;In sed possimus quibusdam consequuntur harum doloremque ab. Aut magnam odio laborum libero. Possimus veritatis et asperiores culpa voluptates consequatur ut.&lt;/p&gt;&lt;p&gt;Dicta ea deleniti autem sint. Qui voluptatem officiis consequatur. Reprehenderit alias soluta dolore sunt et.&lt;/p&gt;&lt;p&gt;Sed rerum illo vel tempora quibusdam. Dolorem mollitia consequatur ea voluptas accusantium. Eum ea est saepe dolores et libero.&lt;/p&gt;&lt;p&gt;Nisi sit eos velit soluta quam. Facilis architecto distinctio autem aut ipsa maxime dicta. Earum qui repudiandae repudiandae quibusdam tempore. Aut illum est repellendus corporis.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">209</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Inventore corrupti voluptas dolorem. Expedita velit a hic itaque. Tenetur quia sit nulla. Ipsum delectus est ullam quis laudantium.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:21 +0700</update>
+
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/45/big/sample.jpeg"
+                         title="Soluta sunt quaerat minima culpa quod sint."
+                         caption="Soluta sunt quaerat minima culpa quod sint."
+                         alt="Soluta sunt quaerat minima culpa quod sint."
+                         copyright="Inventore corrupti voluptas dolorem. Expedita velit a hic itaque. Tenetur quia sit nulla. Ipsum delectus est ullam quis laudantium."
+                         attribution="Inventore corrupti voluptas dolorem. Expedita velit a hic itaque. Tenetur quia sit nulla. Ipsum delectus est ullam quis laudantium."/>
+          
+          <media:title>Soluta sunt quaerat minima culpa quod sint.</media:title>
+          <media:copyright>Inventore corrupti voluptas dolorem. Expedita velit a hic itaque. Tenetur quia sit nulla. Ipsum delectus est ullam quis laudantium.</media:copyright>
+          <media:text>Soluta sunt quaerat minima culpa quod sint.</media:text>
+          <media:description>Inventore corrupti voluptas dolorem. Expedita velit a hic itaque. Tenetur quia sit nulla. Ipsum delectus est ullam quis laudantium.</media:description>
+
+
+                        
+      </item>
+          <item>
+        <title>Ut ad repellendus aut.</title>
+        <link>http://lifestyle.woi.dev:8000/read/208/ut-ad-repellendus-aut</link>
+        <description>&lt;p&gt;Officiis minima in repudiandae. Consequuntur qui reiciendis non et.&lt;/p&gt;&lt;p&gt;Officiis enim occaecati ex tempora. Voluptatem libero eius error. Accusamus qui debitis dolorem sed nesciunt architecto necessitatibus.&lt;/p&gt;&lt;p&gt;Exercitationem dolor corporis sed vel voluptatum accusantium harum. Vitae doloribus aliquid nisi mollitia quia qui. Voluptatem amet quisquam et autem sapiente nemo odio rem.&lt;/p&gt;&lt;p&gt;Maiores aut et sed placeat similique. Quo a et eum non quia. Eligendi et consequatur qui error. Consequatur voluptatem ea optio in aliquam atque. Et qui enim rerum recusandae.&lt;/p&gt;&lt;p&gt;Temporibus veniam eligendi optio ea dolorem dolorem nemo. Repellendus est dolores voluptas quidem. Aut accusantium temporibus dolorem quaerat velit.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">208</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Deleniti est qui quia qui. Ipsa error provident est esse hic. Dolores eos doloremque dolore aspernatur quis.</abstract>
+        <update>Thu, 20 Mar 2014 11:50:08 +0700</update>
+
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/41/big/sample.jpeg"
+                         title="Ut ad repellendus aut."
+                         caption="Ut ad repellendus aut."
+                         alt="Ut ad repellendus aut."
+                         copyright="Deleniti est qui quia qui. Ipsa error provident est esse hic. Dolores eos doloremque dolore aspernatur quis."
+                         attribution="Deleniti est qui quia qui. Ipsa error provident est esse hic. Dolores eos doloremque dolore aspernatur quis."/>
+          
+          <media:title>Ut ad repellendus aut.</media:title>
+          <media:copyright>Deleniti est qui quia qui. Ipsa error provident est esse hic. Dolores eos doloremque dolore aspernatur quis.</media:copyright>
+          <media:text>Ut ad repellendus aut.</media:text>
+          <media:description>Deleniti est qui quia qui. Ipsa error provident est esse hic. Dolores eos doloremque dolore aspernatur quis.</media:description>
+
+
+                        
+      </item>
+          <item>
+        <title>Et alias aliquid non illo et.</title>
+        <link>http://lifestyle.woi.dev:8000/read/207/et-alias-aliquid-non-illo-et</link>
+        <description>&lt;p&gt;Ut aliquam aut doloremque. Ipsa quia facere at consectetur perspiciatis labore. Fugit eos delectus et a. Non maiores dolorum id itaque. Ipsa nihil in est.&lt;/p&gt;&lt;p&gt;Dolores est et nam debitis vel. Architecto officia consequatur excepturi est magnam explicabo dolores vero. Aliquam qui excepturi est nihil sequi itaque. Similique voluptatem alias provident accusamus amet sed.&lt;/p&gt;&lt;p&gt;Voluptas dolores et ipsa. Iure est modi vitae nihil in dolorem officiis.&lt;/p&gt;&lt;p&gt;Aut et qui vel et. Impedit animi dolores inventore incidunt qui ut. Assumenda impedit magni qui.&lt;/p&gt;&lt;p&gt;Dolor saepe repellat qui explicabo velit. Velit est aut corrupti earum. Incidunt perspiciatis quidem aut sunt provident quisquam sit facere.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">207</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Laboriosam nihil mollitia id nesciunt excepturi aut eaque. Optio veniam eos libero odio. Consequuntur a molestias illum vel ut.</abstract>
+        <update>Tue, 25 Mar 2014 13:59:37 +0700</update>
+
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/251/big/13842231911029052263.jpg"
+                         title="Et alias aliquid non illo et."
+                         caption="Et alias aliquid non illo et."
+                         alt="Et alias aliquid non illo et."
+                         copyright="Laboriosam nihil mollitia id nesciunt excepturi aut eaque. Optio veniam eos libero odio. Consequuntur a molestias illum vel ut."
+                         attribution="Laboriosam nihil mollitia id nesciunt excepturi aut eaque. Optio veniam eos libero odio. Consequuntur a molestias illum vel ut."/>
+          
+          <media:title>Et alias aliquid non illo et.</media:title>
+          <media:copyright>Laboriosam nihil mollitia id nesciunt excepturi aut eaque. Optio veniam eos libero odio. Consequuntur a molestias illum vel ut.</media:copyright>
+          <media:text>Et alias aliquid non illo et.</media:text>
+          <media:description>Laboriosam nihil mollitia id nesciunt excepturi aut eaque. Optio veniam eos libero odio. Consequuntur a molestias illum vel ut.</media:description>
+
+
+                        
+      </item>
+          <item>
+        <title>Numquam hic ipsam illo voluptatem culpa sint.</title>
+        <link>http://lifestyle.woi.dev:8000/read/206/numquam-hic-ipsam-illo-voluptatem-culpa-sint</link>
+        <description>&lt;p&gt;Adipisci nisi dolorem saepe veritatis. Modi aut dolore ut corrupti dolorum cum saepe. Officia ducimus consequatur est beatae qui.&lt;/p&gt;&lt;p&gt;Rerum repudiandae voluptates qui cupiditate. Quo in est nulla officiis dolorum alias cumque. Dolore laboriosam qui neque facilis perferendis. Minima est ab cumque quam similique earum perspiciatis quia.&lt;/p&gt;&lt;p&gt;Et ut illo aut nobis officia consectetur laborum nihil. Alias et mollitia quia velit error. Omnis qui odit tenetur sed ex voluptatem.&lt;/p&gt;&lt;p&gt;Harum doloribus sunt facere et quis. Earum consequuntur est est autem autem omnis. Eum iste officiis qui molestiae ut.&lt;/p&gt;&lt;p&gt;Excepturi quis voluptatem deserunt. Culpa quia nam eveniet. Sunt rerum vel et dolor tempora quibusdam. Perferendis quis ea commodi voluptatem animi cupiditate quo aut. Quia aperiam optio maxime odit impedit voluptas eius.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">206</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Consequatur ut ut rerum non velit ad sed. Dicta est in quaerat ipsum maiores nobis. Voluptatem inventore sunt in eum enim et est.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:10 +0700</update>
+
+                
+      </item>
+          <item>
+        <title>Laboriosam consequatur molestiae minus porro porro sint optio.</title>
+        <link>http://lifestyle.woi.dev:8000/read/205/laboriosam-consequatur-molestiae-minus-porro-porro-sint-optio</link>
+        <description>&lt;p&gt;Earum sed eos molestiae. Amet ea illum quaerat nisi saepe provident tenetur. Quos et quo quasi aut in eveniet rerum repellendus. Distinctio facilis in aspernatur quibusdam pariatur.&lt;/p&gt;&lt;p&gt;Maiores quia sunt autem voluptas non. Ipsa rerum magni fugit ipsam iusto. Vitae quia culpa laboriosam corrupti voluptas.&lt;/p&gt;&lt;p&gt;Non officiis molestias tempore aut amet. Pariatur saepe ex est minima praesentium dignissimos est iusto. Et temporibus architecto enim molestiae vitae.&lt;/p&gt;&lt;p&gt;Assumenda voluptatibus nobis delectus atque. Saepe tempore atque doloremque similique.&lt;/p&gt;&lt;p&gt;Expedita laudantium sed fugiat dolor. Voluptatibus minus maxime deserunt non optio.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">205</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Qui porro temporibus perspiciatis reiciendis quae et. Quasi veritatis voluptas eum blanditiis. Quis rerum ut ipsa repudiandae.</abstract>
+        <update>Thu, 20 Mar 2014 11:50:09 +0700</update>
+
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/140/big/sample.jpeg"
+                         title="Laboriosam consequatur molestiae minus porro porro sint optio."
+                         caption="Laboriosam consequatur molestiae minus porro porro sint optio."
+                         alt="Laboriosam consequatur molestiae minus porro porro sint optio."
+                         copyright="Qui porro temporibus perspiciatis reiciendis quae et. Quasi veritatis voluptas eum blanditiis. Quis rerum ut ipsa repudiandae."
+                         attribution="Qui porro temporibus perspiciatis reiciendis quae et. Quasi veritatis voluptas eum blanditiis. Quis rerum ut ipsa repudiandae."/>
+          
+          <media:title>Laboriosam consequatur molestiae minus porro porro sint optio.</media:title>
+          <media:copyright>Qui porro temporibus perspiciatis reiciendis quae et. Quasi veritatis voluptas eum blanditiis. Quis rerum ut ipsa repudiandae.</media:copyright>
+          <media:text>Laboriosam consequatur molestiae minus porro porro sint optio.</media:text>
+          <media:description>Qui porro temporibus perspiciatis reiciendis quae et. Quasi veritatis voluptas eum blanditiis. Quis rerum ut ipsa repudiandae.</media:description>
+
+
+                        
+      </item>
+          <item>
+        <title>Illum tenetur explicabo et ipsum ducimus atque.</title>
+        <link>http://lifestyle.woi.dev:8000/read/204/illum-tenetur-explicabo-et-ipsum-ducimus-atque</link>
+        <description>&lt;p&gt;Quibusdam voluptatem autem voluptate architecto voluptatibus possimus magnam. Magni eos repudiandae sapiente est. Occaecati earum et tempora ratione dolores iusto quos voluptatum.&lt;/p&gt;&lt;p&gt;Consequatur rerum et et eveniet voluptas et maiores consequatur. Eaque et reiciendis quasi vel autem vitae quasi. Consequatur adipisci tenetur aspernatur rerum illum ullam. Ut placeat et error similique.&lt;/p&gt;&lt;p&gt;Error illum et labore ipsam sunt accusamus qui qui. Adipisci a neque molestias similique modi sed. Facilis quia quia facilis cumque modi enim.&lt;/p&gt;&lt;p&gt;Fugiat blanditiis qui pariatur velit aspernatur sequi quam. Adipisci eius enim suscipit. Maxime voluptas blanditiis tempora quod. Suscipit magnam necessitatibus tempore sit nobis.&lt;/p&gt;&lt;p&gt;Impedit in consequuntur id fugiat. In nobis earum et iusto laborum corporis odit. Et reiciendis numquam ut nihil placeat reiciendis quo. Unde laborum accusamus mollitia beatae consequuntur ipsam placeat. Vel et possimus expedita quasi omnis.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">204</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Soluta sed aut est voluptates. Ad laborum beatae quaerat iusto. Nobis mollitia et rem fuga quibusdam odio.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:10 +0700</update>
+
+                
+      </item>
+          <item>
+        <title>Magni qui sit et alias sequi.</title>
+        <link>http://lifestyle.woi.dev:8000/read/203/magni-qui-sit-et-alias-sequi</link>
+        <description>&lt;p&gt;Ut non maiores aliquam quia deleniti. Asperiores nostrum natus labore autem autem velit alias. Et suscipit voluptatem autem impedit totam quibusdam pariatur necessitatibus.&lt;/p&gt;&lt;p&gt;Eos illum et consequuntur blanditiis et corrupti officia. Exercitationem quas esse rerum iste. Explicabo error consectetur quisquam qui odio odio. Maxime itaque provident excepturi dicta debitis.&lt;/p&gt;&lt;p&gt;Deleniti est aliquid aut velit quia minus totam. Voluptatem ipsam ut nihil quos ut. Voluptatum sed cupiditate quia ipsam.&lt;/p&gt;&lt;p&gt;Est quia et molestiae illum corporis. Voluptate velit aliquid est odit est.&lt;/p&gt;&lt;p&gt;Inventore unde tempore architecto quisquam nobis quo facilis corrupti. Ad fugiat quod numquam temporibus aliquid est. Delectus eius sapiente illo officia non soluta.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">203</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Rerum cumque consequatur similique minus voluptas. Deserunt sed earum hic.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:10 +0700</update>
+
+                
+      </item>
+          <item>
+        <title>Iure nulla eum blanditiis delectus et rem officia.</title>
+        <link>http://lifestyle.woi.dev:8000/read/202/iure-nulla-eum-blanditiis-delectus-et-rem-officia</link>
+        <description>&lt;p&gt;Maiores atque dolor provident inventore quidem. Sit officia qui et repellendus. Cupiditate vel enim odit. Itaque aliquam officiis accusantium omnis debitis.&lt;/p&gt;&lt;p&gt;Totam sed labore sit praesentium ipsum. Quod omnis quidem harum voluptatem sed facere qui. Neque harum at dolorem illo dolor. Est qui corporis et dolores.&lt;/p&gt;&lt;p&gt;Dolor illum ea consequatur omnis eveniet. Earum esse deleniti quo delectus provident aut laudantium. Voluptatem sunt maxime corporis et possimus perspiciatis qui.&lt;/p&gt;&lt;p&gt;Fugiat fuga occaecati quia et. Est quae minus sapiente. Quas dolorem blanditiis natus deleniti voluptas impedit voluptas.&lt;/p&gt;&lt;p&gt;Hic iusto ipsum eligendi rerum enim autem. Officiis dolorem et voluptatem doloremque voluptas. Cupiditate quia quia rerum beatae voluptatem ipsa dolore.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">202</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Consectetur ipsa maiores numquam quis rem. Expedita amet rerum inventore alias dolores.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:10 +0700</update>
+
+                
+      </item>
+          <item>
+        <title>Consequatur voluptatem omnis quae eos similique.</title>
+        <link>http://lifestyle.woi.dev:8000/read/201/consequatur-voluptatem-omnis-quae-eos-similique</link>
+        <description>&lt;p&gt;Et ea quaerat velit cupiditate. Qui omnis perferendis dolor expedita. Sed enim velit accusantium rerum rerum.&lt;/p&gt;&lt;p&gt;Facere dolorem modi reiciendis et fuga molestiae. Sed magni error sequi velit ab expedita. In ducimus et iusto minima est.&lt;/p&gt;&lt;p&gt;Incidunt perferendis aliquam autem est itaque explicabo vero. Illo culpa dolor optio. Accusantium quo omnis debitis. Harum consequuntur est et provident molestiae. Animi aspernatur sunt sit aliquam atque sapiente.&lt;/p&gt;&lt;p&gt;Aspernatur ad eius provident iusto. Dolores ducimus quibusdam eum. Dolorem aspernatur voluptas aut numquam.&lt;/p&gt;&lt;p&gt;Necessitatibus dolores consequatur commodi consequatur corrupti architecto. Sed quidem reprehenderit maxime minus sit enim quasi fugiat. Recusandae debitis ullam aliquam magnam ut ullam quod.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">201</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Maiores ratione veniam quaerat quas id sequi sapiente. Nobis voluptate voluptatem aut error ipsam saepe.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:50 +0700</update>
+
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/35/big/sample.jpeg"
+                         title="Consequatur voluptatem omnis quae eos similique."
+                         caption="Consequatur voluptatem omnis quae eos similique."
+                         alt="Consequatur voluptatem omnis quae eos similique."
+                         copyright="Maiores ratione veniam quaerat quas id sequi sapiente. Nobis voluptate voluptatem aut error ipsam saepe."
+                         attribution="Maiores ratione veniam quaerat quas id sequi sapiente. Nobis voluptate voluptatem aut error ipsam saepe."/>
+          
+          <media:title>Consequatur voluptatem omnis quae eos similique.</media:title>
+          <media:copyright>Maiores ratione veniam quaerat quas id sequi sapiente. Nobis voluptate voluptatem aut error ipsam saepe.</media:copyright>
+          <media:text>Consequatur voluptatem omnis quae eos similique.</media:text>
+          <media:description>Maiores ratione veniam quaerat quas id sequi sapiente. Nobis voluptate voluptatem aut error ipsam saepe.</media:description>
+
+
+                        
+      </item>
+          <item>
+        <title>Dolorem tenetur earum aliquam omnis autem dolore et.</title>
+        <link>http://lifestyle.woi.dev:8000/read/200/dolorem-tenetur-earum-aliquam-omnis-autem-dolore-et</link>
+        <description>&lt;p&gt;Dolorem ipsa sed ratione quasi. Hic praesentium est atque consequatur.&lt;/p&gt;&lt;p&gt;Blanditiis qui et ipsum est quia omnis. Cupiditate voluptas totam quibusdam. Possimus repellendus sit impedit quo explicabo. Beatae distinctio vel aliquid.&lt;/p&gt;&lt;p&gt;Dolor aut aliquid corporis sit qui qui. Perferendis porro repellendus est fugit ab aspernatur et labore. Nihil commodi non est veniam. Sit sequi vitae et soluta consequatur amet.&lt;/p&gt;&lt;p&gt;Atque et nobis a possimus omnis sit. Deserunt illum nostrum accusamus ut quia. Animi repellendus dolore ut inventore. Commodi dolor consequatur in vitae. Quo minima blanditiis temporibus dolorem quaerat occaecati culpa.&lt;/p&gt;&lt;p&gt;Eaque eveniet sunt iusto nihil omnis. Animi excepturi debitis rem consequatur voluptate aut. Atque voluptates ut commodi quod sed sint.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">200</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Mollitia nesciunt vel nam molestias earum est recusandae. Cupiditate sit aut voluptas et vero voluptate quam. Sunt cum asperiores et iure.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:10 +0700</update>
+
+                
+      </item>
+          <item>
+        <title>Qui rerum quas enim.</title>
+        <link>http://lifestyle.woi.dev:8000/read/199/qui-rerum-quas-enim</link>
+        <description>&lt;p&gt;Odio in odit voluptates dolor architecto consequatur. Et aut occaecati veritatis qui. Cupiditate aut in non consequatur aspernatur omnis. Dicta id dignissimos sed ratione facere omnis.&lt;/p&gt;&lt;p&gt;Ratione qui maiores ratione. Aliquam quia odit animi. Et ea quia itaque natus amet. Odit aspernatur quia quis omnis quia dolore.&lt;/p&gt;&lt;p&gt;Quod quia unde quis non molestiae culpa. Quos ipsa dolorem aut repudiandae repudiandae ducimus ea qui. Consectetur amet qui iusto voluptatem laborum.&lt;/p&gt;&lt;p&gt;Cum aut voluptatem reiciendis provident consectetur doloribus. Omnis id eius aliquam beatae repellendus. Maxime libero dolores qui neque incidunt.&lt;/p&gt;&lt;p&gt;Iusto rem et facere ea. Cupiditate molestiae officiis odit nam consequuntur nemo est distinctio.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">199</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Voluptas nam cumque dignissimos. Quidem ex numquam rerum omnis. Quidem reprehenderit voluptatem et aut ex voluptas fugit cum.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:10 +0700</update>
+
+                
+      </item>
+          <item>
+        <title>Quibusdam vitae dolores omnis et dolores possimus itaque.</title>
+        <link>http://lifestyle.woi.dev:8000/read/198/quibusdam-vitae-dolores-omnis-et-dolores-possimus-itaque</link>
+        <description>&lt;p&gt;Libero maiores eos exercitationem iste quos. Non dicta mollitia aut ipsum dolor iusto quis. Aperiam temporibus non eos et quia dolores.&lt;/p&gt;&lt;p&gt;Aut omnis aut minima qui porro placeat. Ducimus laboriosam magni quasi rerum aut nihil aliquam facere. Ea totam tenetur dolores dolores aut est ut.&lt;/p&gt;&lt;p&gt;Nisi temporibus reiciendis et excepturi rerum. Eligendi sed voluptas omnis est ut nostrum magni autem. Quidem minus impedit voluptates quis aut ullam voluptas dolores.&lt;/p&gt;&lt;p&gt;Unde beatae molestiae reiciendis inventore aut voluptas sapiente. Repellat voluptates eos id in ab voluptatum tempora. Hic sit beatae quae. Fuga odit maiores nostrum aut voluptatem.&lt;/p&gt;&lt;p&gt;Earum quo est eaque aperiam excepturi. Aut cum dolores illo quia. Illum est occaecati dolorum possimus ab.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">198</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Dolorem quaerat neque aut corrupti. Aut et ut quidem quia. Ut est quasi tempora similique maiores. Vero dolorem illo fugit iure rerum vero.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:36 +0700</update>
+
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/105/big/sample.jpeg"
+                         title="Quibusdam vitae dolores omnis et dolores possimus itaque."
+                         caption="Quibusdam vitae dolores omnis et dolores possimus itaque."
+                         alt="Quibusdam vitae dolores omnis et dolores possimus itaque."
+                         copyright="Dolorem quaerat neque aut corrupti. Aut et ut quidem quia. Ut est quasi tempora similique maiores. Vero dolorem illo fugit iure rerum vero."
+                         attribution="Dolorem quaerat neque aut corrupti. Aut et ut quidem quia. Ut est quasi tempora similique maiores. Vero dolorem illo fugit iure rerum vero."/>
+          
+          <media:title>Quibusdam vitae dolores omnis et dolores possimus itaque.</media:title>
+          <media:copyright>Dolorem quaerat neque aut corrupti. Aut et ut quidem quia. Ut est quasi tempora similique maiores. Vero dolorem illo fugit iure rerum vero.</media:copyright>
+          <media:text>Quibusdam vitae dolores omnis et dolores possimus itaque.</media:text>
+          <media:description>Dolorem quaerat neque aut corrupti. Aut et ut quidem quia. Ut est quasi tempora similique maiores. Vero dolorem illo fugit iure rerum vero.</media:description>
+
+
+                        
+      </item>
+          <item>
+        <title>Ea temporibus fugit repudiandae recusandae excepturi iure consequuntur.</title>
+        <link>http://lifestyle.woi.dev:8000/read/197/ea-temporibus-fugit-repudiandae-recusandae-excepturi-iure-consequuntur</link>
+        <description>&lt;p&gt;Est voluptatibus id molestias numquam quia. Mollitia quaerat quisquam omnis qui. Nam commodi sunt dicta voluptate itaque et est et.&lt;/p&gt;&lt;p&gt;Optio ea est aut eum. Commodi cum sed quo ut quia. Qui neque incidunt illo et quis ullam omnis. Voluptatum dolor consequatur numquam eius molestiae aliquid deserunt.&lt;/p&gt;&lt;p&gt;Debitis neque est rem alias. Iste blanditiis magni minima eos sed vel. Ut inventore excepturi id perferendis laborum voluptatem consequuntur sed.&lt;/p&gt;&lt;p&gt;Qui placeat non eaque itaque. Laborum et maxime possimus et voluptate. Quia deserunt omnis sunt.&lt;/p&gt;&lt;p&gt;Vero odio reprehenderit ea mollitia neque omnis. Non molestias nam deleniti quia nihil. Ducimus natus debitis qui occaecati saepe sed. Est quod ipsam deserunt fugit corporis.&lt;/p&gt;</description>
+        <pubDate>Fri, 08 Aug 2008 08:08:08 +0700</pubDate>
+        <guid isPermaLink="false">197</guid>
+        <subTitle></subTitle>
+        <author>Admin Cogati</author>
+        <abstract>Asperiores nihil molestiae illo pariatur. Provident qui necessitatibus qui.</abstract>
+        <update>Thu, 20 Mar 2014 11:49:33 +0700</update>
+
+                  <media:content url="http://liputan6-media-production.s3-ap-southeast-1.amazonaws.com/medias/92/big/sample.jpeg"
+                         title="Ea temporibus fugit repudiandae recusandae excepturi iure consequuntur."
+                         caption="Ea temporibus fugit repudiandae recusandae excepturi iure consequuntur."
+                         alt="Ea temporibus fugit repudiandae recusandae excepturi iure consequuntur."
+                         copyright="Asperiores nihil molestiae illo pariatur. Provident qui necessitatibus qui."
+                         attribution="Asperiores nihil molestiae illo pariatur. Provident qui necessitatibus qui."/>
+          
+          <media:title>Ea temporibus fugit repudiandae recusandae excepturi iure consequuntur.</media:title>
+          <media:copyright>Asperiores nihil molestiae illo pariatur. Provident qui necessitatibus qui.</media:copyright>
+          <media:text>Ea temporibus fugit repudiandae recusandae excepturi iure consequuntur.</media:text>
+          <media:description>Asperiores nihil molestiae illo pariatur. Provident qui necessitatibus qui.</media:description>
+
+
+                        
+      </item>
+      </channel>
+</rss>
